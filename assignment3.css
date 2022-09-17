@@ -1,0 +1,29 @@
+*{
+    border: 1px;
+}
+#main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    border: 1px solid;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+.container{
+    flex-grow: 3;
+    float: left;
+    width: 25%;
+    margin: auto;
+}
+.desc{
+    width: 75%;
+}
+img{
+    border-radius: 2px;
+}
+#des{
+    font-family:Verdana;
+}
